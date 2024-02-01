@@ -1,0 +1,13 @@
+.sectionWrapper {
+    background-color: var(--main);
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.sectionWrapper h1 {
+    font-weight: 400;
+    font-size: 4.5em;
+    text-align: center;
+}
